@@ -11,11 +11,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
+	"github.com/caddyserver/masipcat/v2/caddyconfig/caddyfile"
 	"go.uber.org/zap"
 
 	"github.com/bsm/redislock"
-	"github.com/caddyserver/caddy/v2"
+	"github.com/caddyserver/masipcat/v2"
 	"github.com/caddyserver/certmagic"
 	"github.com/go-redis/redis"
 )
