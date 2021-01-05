@@ -110,8 +110,6 @@ github.com/bsm/redislock v0.3.0/go.mod h1:2JiJpY5+EoPFcvncal7X1LdFHydd0xXZlLSgDt
 github.com/bsm/redislock v0.5.0 h1:ODM11/cbuUXQqLgZWK6XQnufaTjsBE2UcwBc2EAFNDA=
 github.com/bsm/redislock v0.5.0/go.mod h1:qagqKlV+xiLy26iV34Y3zRPxRcJjQYbV7pZfWFeSZ8M=
 github.com/buger/jsonparser v0.0.0-20181115193947-bf1c66bbce23/go.mod h1:bbYlZJ7hK1yFx9hf58LP0zeX7UjIGs20ufpu3evjr+s=
-github.com/caddyserver/caddy/v2 v2.0.0 h1:pQSaIJGFluFvu8KDGDODV8u4/QRED/OPyIR+MWYYse8=
-github.com/caddyserver/caddy/v2 v2.0.0/go.mod h1:D2SD9GmjranT43H5Wa+tl4Yk0242e5XsaRRYNhAtFWc=
 github.com/caddyserver/certmagic v0.10.12/go.mod h1:Y8jcUBctgk/IhpAzlHKfimZNyXCkfGgRTC0orl8gROQ=
 github.com/caddyserver/certmagic v0.11.0 h1:b7moj2Z/+iMa6x42V2L1AqbvHGti0aWGx2l7PkoERdQ=
 github.com/caddyserver/certmagic v0.11.0/go.mod h1:fqY1IZk5iqhsj5FU3Vw20Sjq66tEKaanTFYNZ74soMY=
